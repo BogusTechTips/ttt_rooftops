@@ -1,0 +1,3510 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "BreakPieceList"
+				children = 
+				[
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_0"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_1"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_022",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_2"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_023",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_3"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_010",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_4"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_013",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_5"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_014",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_6"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_015",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_7"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_016",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_8"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_017",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_9"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_018",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_10"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_019",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_11"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_cell_020",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_12"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_024",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_13"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_025",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_14"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_010",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_15"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_013",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_16"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_014",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_17"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_015",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_18"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_016",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_19"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_017",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_20"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_018",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_21"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_019",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_22"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_020",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_23"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_021",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_24"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_001_cell_022",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_25"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_002_cell_021",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_26"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_002_cell_022",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_27"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_002_cell_010",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_28"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_002_cell_013",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_29"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_002_cell_014",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_30"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_002_cell_015",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_31"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_002_cell_016",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_32"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_002_cell_017",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_33"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_002_cell_018",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_34"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_002_cell_019",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_35"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_003_cell_021",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_36"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_003_cell_022",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_37"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_003_cell_011",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_38"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_003_cell_014",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_39"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_003_cell_015",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_40"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_003_cell_016",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_41"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_003_cell_017",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_42"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_003_cell_018",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_43"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_003_cell_019",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_44"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_004_cell_020",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_45"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_004_cell_021",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_46"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_004_cell_009",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_47"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_004_cell_012",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_48"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_004_cell_013",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_49"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_004_cell_014",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_50"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_004_cell_015",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_51"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_004_cell_016",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_52"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_004_cell_017",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_53"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_004_cell_018",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_54"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_023",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_55"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_024",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_56"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_010",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_57"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_013",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_58"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_014",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_59"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_015",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_60"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_016",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_61"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_017",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_62"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_018",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_63"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_019",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_64"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_020",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_65"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_005_cell_021",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_66"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_006_cell_021",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_67"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_006_cell_022",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_68"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_006_cell_011",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_69"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_006_cell_014",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_70"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_006_cell_015",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_71"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_006_cell_016",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_72"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_006_cell_017",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_73"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_006_cell_018",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_74"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_006_cell_019",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_75"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_007_cell_021",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_76"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_007_cell_022",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_77"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_007_cell_010",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_78"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_007_cell_013",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_79"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_007_cell_014",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_80"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_007_cell_015",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_81"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_007_cell_016",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_82"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_007_cell_017",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_83"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_007_cell_018",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_84"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/wallthing.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"Cube_cell_007_cell_019",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						is_ragdoll = false
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						collision_tags = "solid"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+				]
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "prop_data"
+						game_keys = 
+						{
+							bakelighting = true
+							spawn_motion_disabled = true
+							health = 10.0
+							min_impact_damage_speed = -1.0
+							impact_damage = -1.0
+							parent_bodygroup_name = ""
+							parent_bodygroup_value = 0
+						}
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = [  ]
+						use_global_default = true
+						global_default_material = "materials/concrete_d_bld.vmat"
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFile"
+						name = "wallthing"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_tags = "solid"
+						recenter_on_parent_bone = false
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						filename = "models/wallthing.fbx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"Cube",
+							]
+						}
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/wallthing.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"Cube",
+							]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = "physics_prop_model"
+		primary_associated_entity = "prop_physics"
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Rooftops",
+  "Type": "map",
+  "Org": "pumpernickel",
+  "Ident": "ttt_rooftops",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "facepunch.sandbox",
+      "matt.ttt",
+      "partygame.freezetag"
+    ]
+  }
+}
